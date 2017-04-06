@@ -1,0 +1,11 @@
+﻿Sample usage:
+C:\Program Files\R\R-3.3.3>dir /B /S | G:\GIT\ShortPath\ShortPath\bin\Debug\ShortPath.exe -f
+C:\PROGRA~1\R\R-33~1.3\bin
+C:\PROGRA~1\R\R-33~1.3\CHANGES
+C:\PROGRA~1\R\R-33~1.3\COPYING
+C:\PROGRA~1\R\R-33~1.3\doc
+C:\PROGRA~1\R\R-33~1.3\etc
+C:\PROGRA~1\R\R-33~1.3\include
+.
+.
+.
